@@ -1,5 +1,5 @@
 # Summary
 
-* Roblox Panel Web API
+* [Roblox Panel Web API](webapi/SUMMARY.md)
    * Analytics
 
