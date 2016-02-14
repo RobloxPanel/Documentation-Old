@@ -1,1 +1,1 @@
-This is a.
+This documentation covers the Web API that is used within ROBLOX games and how to use the website.
